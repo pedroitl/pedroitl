@@ -1,4 +1,4 @@
-Olá, me chamo Pedro Italo, Técnico de Informática, novo no mercado, atualmente à procura de um estágio na área para conclusão do curso. Estudando para ser um desenvolvedor fullstack, porém ja programo em HTML E CSS a nível intermediário. 
+Olá, me chamo Pedro Italo, Técnico de Informática, atualmente me especializando para ser um desenvolvedor fullstack, porém ja programo em HTML E CSS a nível basico. 
 
 Pode interessar: 
 
