@@ -1,4 +1,4 @@
-# Pedro Ferreira
+# Pedro Italo
 
 Estudante de Sistemas de Informação na UNIFACISA, com foco em desenvolvimento Back-end utilizando Java e Spring Boot. Tenho interesse em desenvolvimento de APIs REST, banco de dados e construção de aplicações web.
 
