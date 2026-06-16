@@ -1,14 +1,59 @@
-## Olá, sou o Pedro! 👨‍💻
+# Pedro Ferreira
 
-Sou desenvolvedor com foco em **front-end** e **back-end**, com experiência em **HTML**, **CSS**, **Python** e **Java**. Gosto de construir projetos completos que envolvem tanto a parte visual quanto a lógica de programação, além de me interessar por aprender novas tecnologias e ferramentas.
+Estudante de Sistemas de Informação na UNIFACISA, com foco em desenvolvimento Back-end utilizando Java e Spring Boot. Tenho interesse em desenvolvimento de APIs REST, banco de dados e construção de aplicações web.
 
-### 🧑‍💻 **Projetos em destaque**:
-- **Div Receitas** (HTML/CSS): Um site de receitas dinâmicas com design responsivo e layout limpo.
-- **Ouvidoria em Python**: Um sistema de ouvidoria desenvolvido para a faculdade, com funcionalidades de CRUD e interação com o usuário.
+Atualmente busco oportunidades de estágio e posições iniciais na área de desenvolvimento Java, onde possa aplicar meus conhecimentos e continuar evoluindo profissionalmente.
 
-### 🚀 **Habilidades**:
-- **Desenvolvimento Front-end**: HTML, CSS, JavaScript, GitHub Pages.
-- **Desenvolvimento Back-end**: Python, manipulação de dados, lógica de programação.
-- **IDE e Ferramentas**: IntelliJ, PyCharm, VS Code, Git/GitHub.
+## Tecnologias
 
-Busco novas oportunidades para crescer como desenvolvedor e aplicar meus conhecimentos em projetos desafiadores. Se você procura um desenvolvedor júnior comprometido e com vontade de aprender, vamos conversar! 🤝
+* Java
+* Spring Boot
+* APIs REST
+* MySQL
+* JavaScript
+* React
+* Node.js
+* Git e GitHub
+
+## Projetos
+
+### Sistema de Pedidos para Restaurantes
+
+Sistema web desenvolvido para automatizar o atendimento em restaurantes. O cliente realiza pedidos diretamente pelo celular através de um cardápio digital, enquanto a cozinha recebe os pedidos em tempo real.
+
+**Tecnologias:** React, JavaScript, Java, Spring Boot e MySQL.
+
+### API de Autenticação
+
+API REST desenvolvida com Spring Boot utilizando autenticação JWT, controle de usuários e integração com banco de dados PostgreSQL.
+
+**Tecnologias:** Java, Spring Boot, JWT, PostgreSQL.
+
+### Sistema de Controle de Veículos
+
+Projeto voltado para gerenciamento de veículos e controle de estoque, utilizando conceitos de Programação Orientada a Objetos e persistência de dados.
+
+### Sistema de Controle de Estacionamento
+
+Aplicação desenvolvida em Java para gerenciamento de vagas, veículos e controle de entrada e saída.
+
+### Div Receitas
+
+Site responsivo para compartilhamento de receitas desenvolvido com HTML, CSS e JavaScript.
+
+## Atualmente estudando
+
+* Spring Security
+* JWT
+* Arquitetura de APIs REST
+* Banco de Dados
+* Boas práticas de desenvolvimento Java
+
+## Objetivo
+
+Atuar como Desenvolvedor Back-end Java, trabalhando com APIs, banco de dados e sistemas corporativos, contribuindo para o desenvolvimento de soluções escaláveis e de qualidade.
+
+## Contato
+
+* GitHub: github.com/pedroitl
+* LinkedIn: seu-linkedin
