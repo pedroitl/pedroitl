@@ -56,4 +56,4 @@ Atuar como Desenvolvedor Back-end Java, trabalhando com APIs, banco de dados e s
 ## Contato
 
 * GitHub: github.com/pedroitl
-* LinkedIn: seu-linkedin
+* LinkedIn: linkedin.com/in/pedroitl
